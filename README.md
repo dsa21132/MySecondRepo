@@ -1,6 +1,6 @@
 # MySecondRepo
 
-- dsa2323010 = R.N
+- dsa2323010 = R.N.
 - dsa2323011 = N.S
 - dsa2323019 = O.Y.
 - dsa2323022 = MS
